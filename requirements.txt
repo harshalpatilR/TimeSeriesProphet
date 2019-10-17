@@ -92,7 +92,7 @@ PyYAML==3.12
 pyzmq==18.1.0
 qtconsole==4.5.3
 Quandl==3.4.8
-requests==2.13.0
+requests==2.20.0
 requests-file==1.4.3
 roman==2.0.0
 rsa==3.4.2
