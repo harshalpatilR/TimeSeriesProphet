@@ -73,7 +73,7 @@ plac==0.9.6
 preshed==2.0.1
 prometheus-client==0.7.1
 prompt-toolkit==1.0.15
-protobuf==3.9.0
+protobuf==3.18.3
 ptyprocess==0.6.0
 py4j==0.10.7
 pyasn1==0.4.2
